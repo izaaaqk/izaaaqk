@@ -11,6 +11,20 @@ I am a Software Engineer graduated from University of Denver's FullStack Develop
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ileoaguirre/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/My Portfolio-Green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ </div>
+<div id="badges">
+ <img src="https://komarev.com/ghpvc/?username=izaaaqk&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
 <!--
 **izaaaqk/izaaaqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
