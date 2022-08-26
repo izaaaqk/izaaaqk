@@ -5,11 +5,11 @@
 
 ###  👋 Hello, I'm Leo!
 
-I am a Software Engineer graduated from University of Denver's FullStack Development Bootcamp, and spent 5 years studying DigitalMedia Production and Graphic Desing At the University Of Texas El Paso.
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
+
+I am a Software Engineer graduated from University of Denver's FullStack Development Bootcamp, and spent 5 years studying DigitalMedia Production and Graphic Desing At the University Of Texas El Paso.
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/ileoaguirre/)">
