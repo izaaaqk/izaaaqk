@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250"/>
-</div>
+
 
 ###  👋 Hello, I'm Leo!
 
@@ -16,13 +16,13 @@ I am a Software Engineer graduated from University of Denver's FullStack Develop
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/My Portfolio-Green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Green?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
   </a>
  </div>
 <div id="badges">
  <img src="https://komarev.com/ghpvc/?username=izaaaqk&style=flat-square&color=blue" alt=""/>
 </div>
-
+</div>
 
 
 <!--
