@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Leo!
 
-I am a junior ⚡Software Engineer⚡ graduated from University of Denver's FullStack Development Bootcamp, and spent 5 years studying Digital ✨Media Production and ✨Graphic Desing At the University Of Texas El Paso.
+I am a Software Engineer graduated from University of Denver's FullStack Development Bootcamp, and spent 5 years studying DigitalMedia Production and Graphic Desing At the University Of Texas El Paso.
 
 <!--
 **izaaaqk/izaaaqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
