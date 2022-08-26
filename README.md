@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250"/>
 
 
-###  👋 Hello, I'm Leo!
+###  👋 I'm Leo!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
