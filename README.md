@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250"/>
 </div>
-### I'm Leo!
+
+###  👋 Hello, I'm Leo!
 
 I am a Software Engineer graduated from University of Denver's FullStack Development Bootcamp, and spent 5 years studying DigitalMedia Production and Graphic Desing At the University Of Texas El Paso.
 
